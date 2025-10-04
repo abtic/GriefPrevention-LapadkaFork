@@ -31,7 +31,6 @@
   <section class="section" id="disclaimer">
     <h2>Disclaimer</h2>
     <p>
-      I have tested this in as many scenarios as I can think of, but I cannot guarantee it is free of issues or bugs.
       Please make a full backup of your server before using this plugin.
     </p>
   </section>
